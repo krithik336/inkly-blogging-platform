@@ -26,7 +26,7 @@
 
 <br/>
 
-[**Live Demo**](#) · [**Report Bug**](https://github.com/krithik336/inkly-blogging-platform/issues) · [**Request Feature**](https://github.com/krithik336/inkly-blogging-platform/issues)
+[**Report Bug**](https://github.com/krithik336/inkly-blogging-platform/issues) · [**Request Feature**](https://github.com/krithik336/inkly-blogging-platform/issues)
 
 </div>
 
@@ -187,7 +187,19 @@ The following enhancements are planned for upcoming releases:
 
 ## Screenshots
 
-> *UI screenshots coming soon. Run the project locally to explore the full interface.*
+### 🏠 Home / Landing Page
+![Landing Page](screenshots/landing.png)
+
+### ✨ AI Blog Generator
+![AI Generator](screenshots/generator.png)
+
+### 📝 Markdown Editor
+![Editor](screenshots/editor.png)
+
+### 🔐 Authentication
+![Auth](screenshots/auth.png)
+
+> 📌 **To add your screenshots:** Create a `screenshots/` folder in the root of your repo and drop your images in with the matching filenames above.
 
 <br/>
 
