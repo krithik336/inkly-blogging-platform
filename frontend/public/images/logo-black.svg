@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" width="280" height="80">
+  <!-- Purple icon box -->
+  <rect x="0" y="10" width="58" height="58" rx="12" fill="#7C5CFC"/>
+
+  <!-- Sparkle star top-right on icon -->
+  <g fill="white">
+    <polygon points="42,14 44,20 50,20 45,24 47,30 42,26 37,30 39,24 34,20 40,20" opacity="0.95"/>
+  </g>
+
+  <!-- Ink/pen nib icon centered in box -->
+  <g transform="translate(29, 39)" fill="white">
+    <!-- Simple document/ink drop shape -->
+    <rect x="-10" y="-12" width="20" height="16" rx="3" fill="white" opacity="0.95"/>
+    <polygon points="-5,4 5,4 0,12" fill="white" opacity="0.95"/>
+    <!-- lines on doc -->
+    <rect x="-6" y="-8" width="12" height="2" rx="1" fill="#7C5CFC"/>
+    <rect x="-6" y="-3" width="8" height="2" rx="1" fill="#7C5CFC"/>
+  </g>
+
+  <!-- "Inkly" text: "Ink" bold dark, "ly" lighter gray -->
+  <text x="72" y="54" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="38" fill="#1a2035" letter-spacing="-1">Ink</text>
+  <text x="131" y="54" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="400" font-size="38" fill="#5a6a8a" letter-spacing="-1">ly</text>
+</svg>
