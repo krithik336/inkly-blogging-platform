@@ -15,6 +15,8 @@
 
 *Write smarter. Rank higher. Grow faster.*
 
+> *"Blogs, powered by intelligence."*
+
 <br/>
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
@@ -208,8 +210,6 @@ The following enhancements are planned for upcoming releases:
 
 [![GitHub](https://img.shields.io/badge/GitHub-krithik336-181717?style=for-the-badge&logo=github)](https://github.com/krithik336)
 
-*Built with passion, powered by AI.*
-
 </div>
 
 ---
@@ -220,6 +220,6 @@ The following enhancements are planned for upcoming releases:
 
 <br/>
 
-*© 2024 Inkly · Developed for educational and learning purposes*
+*© 2026 Inkly · Developed for educational and learning purposes*
 
 </div>
