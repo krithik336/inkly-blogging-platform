@@ -45,7 +45,6 @@ Built as a SaaS-inspired product with clean architecture, Inkly demonstrates rea
 | Feature | Description |
 |---|---|
 | ✨ **AI Content Generation** | Leverages Groq API to generate high-quality, context-aware blog content in seconds |
-| 📝 **Markdown Editor** | Full markdown-based editing experience with live preview support |
 | 🔍 **SEO Optimization** | Built-in suggestions for meta descriptions, keywords, and content structure |
 | 📊 **Content Analytics** | Smart insights to track content performance and engagement metrics |
 | 🔐 **JWT Authentication** | Secure user authentication and session management using JSON Web Tokens |
@@ -188,18 +187,16 @@ The following enhancements are planned for upcoming releases:
 ## Screenshots
 
 ### 🏠 Home / Landing Page
-![Landing Page](screenshots/landing.png)
+![Landing Page](screenshots/home.png)
 
 ### ✨ AI Blog Generator
 ![AI Generator](screenshots/generator.png)
 
-### 📝 Markdown Editor
-![Editor](screenshots/editor.png)
-
 ### 🔐 Authentication
 ![Auth](screenshots/auth.png)
 
-> 📌 **To add your screenshots:** Create a `screenshots/` folder in the root of your repo and drop your images in with the matching filenames above.
+### 💳 Pricing
+![Pricing](screenshots/pricing.png)
 
 <br/>
 
